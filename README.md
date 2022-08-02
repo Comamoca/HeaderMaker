@@ -6,17 +6,17 @@
 ![Open Issues](https://img.shields.io/github/issues-raw/Comamoca/baserepo?style=flat-square)
 ![Bug Issues](https://img.shields.io/github/issues/Comamoca/baserepo/bug?style=flat-square)
 
-# 🦊 baserepo
+# 🦊 Header Maker
 
-This is Comamoca's template repository.
+Twitterのヘッダーを生成するWebサービス
 
 </div>
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">🍔English</th>
-      <th style="text-align:center"><a href="README.ja.md">🍡日本語</a></th>
+      <th style="text-align:center">🍡日本語</th>
+      <th style="text-align:center">Japanese Only</a></th>
     </tr>
   </thead>
 </table>
@@ -25,49 +25,54 @@ This is Comamoca's template repository.
 
 </div>
 
-## 🚀 How to use
+## 🚀 使い方
 
 ```
-# Let's write how to use it here.
+# ここに使い方を書きましょう。
 ```
 - How to use
 - It is also possible to make bullet points
 - It ’s good.
 
+- 使い方を書きましょう。
+- 箇条書きにすると、
+- 更に分かりやすくなるでしょう。
+
 ## ⬇️  Install
 
-Let's write the installation method for each OS of Windows, Linux, Mac.
-It's still nice to write the method for each Linux distribution.
+Windows、Linux、Macの各OSのインストール方法を書いてみましょう。
+Linuxディストリビューションごとにインストール方法を書くと更に良いでしょう。
 
-If you distribute it in binary, write about the release page as well.
+バイナリで配布する場合は、リリースページについても書いてください。
 
-Also, write about how to install from source.
+また、ソースからインストールする方法についても書いてください。
 
-
-## ⛏️   Development
+## ⛏️   開発
 
 ```sh
-# Let's write here how to build an environment for development.
+# 開発用の環境を構築する方法をここに書きましょう。
 ```
 ## 📝 Todo
 
-- [ ] Write here what you need to do in your project.
-- [ ] It's even better to use it with the Github Project.
+- [ ] UIの作成
+- [ ] バックエンドの作成
+- [ ] デプロイの自動化
 
-## 📜 License
+## 📜 ライセンス
 
-Licenses are important for open source. Be sure to write it.
+MIT
 
 ### 🧩 Modules
 
-Let's write about the library used.
-If you have a tool that can be automatically generated, make use of it.
+使用したライブラリについて書きましょう。
+自動生成できるツールがある場合は活用しましょう。
 
-## 👏 Affected projects
+## 👏 影響を受けたプロジェクト
 
-Write a project that inspired you to develop.
+- gamma
+Haiku
 
-## 💕 Special Thanks
+## 💕 スペシャルサンクス
 
-Write about the tools and libraries that helped you develop.
-Also, pay homage to those developers.
+- huibizhang
+[template-vite-react-ts-tailwind-v3](https://github.com/huibizhang/template-vite-react-ts-tailwind-v3)
